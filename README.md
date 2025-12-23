@@ -6,5 +6,5 @@ Restore_old_ALT-SHIFT
 #### Stable Branch (Recommended)
 
 ```ps1
-irm "https://raw.githubusercontent.com/ZodiacTeamOS/Zodiac_LayoutTool/AltShiftFixer.ps1" | iex
+irm "https://raw.githubusercontent.com/ZodiacTeamOS/Zodiac_LayoutTool/main/AltShiftFixer.ps1" | iex
 ```
